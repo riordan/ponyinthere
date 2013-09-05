@@ -1,0 +1,15 @@
+README:
+
+[instructions]
+
+Download this code
+Download your twitter archive and unzip your tweets folder to tweets in here
+
+
+
+TODOS:
+Heroku instructions
+Build tweeting part (to actually act as a twitter clietn)
+build listener (to fetch new tweets not in archive)
+Load record of all tweets into DB
+
